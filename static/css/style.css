@@ -7,6 +7,9 @@ body{
 .dice-game{
 	background:url('../img/pool_table.png') repeat;
 }
+a{
+	text-align="center";
+}
 .expand{
 	display:inline-block;
 	height:100%;
